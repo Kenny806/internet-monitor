@@ -1,0 +1,14 @@
+{
+    "name": "internet-monitor",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "format": "prettier --write '**/*.{js,json}'"
+    },
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "prettier": "^2.2.1"
+    }
+}
